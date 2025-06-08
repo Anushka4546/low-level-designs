@@ -68,5 +68,3 @@ This project is an extensible, object-oriented Parking Lot management system. It
 - **Dependency Injection:** Strategies and managers are injected, not hardcoded.
 
 ---
-    class NearEntranceStrategy
-    class NearElevatorStrategy
